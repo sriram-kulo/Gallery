@@ -168,6 +168,5 @@ function prevImg() {
 # OUTPUT:
 <img width="1919" height="1079" alt="528705154-39f63874-18db-4557-84c4-c02e895065e4" src="https://github.com/user-attachments/assets/b45a92a1-49ca-46f3-9ba0-19fca23e6d1f" />
 <img width="1919" height="1078" alt="528705026-95bfbfea-cffd-4a83-9a75-d7ec8e825c56" src="https://github.com/user-attachments/assets/d4399c5a-5efa-43a0-a997-6991daa7653a" />
-
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
